@@ -7,9 +7,9 @@
 
 <br>
 
-|  |  |
+| Submitted by: | Submitted to: |
 | --- | --- |
-| <h4>Submitted by:</h4>**Md. Zayed Al Masud**<br>Roll: 1810016<br>Dept. of ECE<br>Rajshahi University of Engineering and Technology<br> |  Submitted to:<br>**Hafsa Binte Kibria**<br>Lecturer, Dept. of ECE<br>Rajshahi University of Engineering and Technology |
+| ***Md. Zayed Al Masud***<br>Roll: **1810016** <br>Dept. of ECE<br>Rajshahi University of Engineering and Technology<br> |  ***Hafsa Binte Kibria***<br>Lecturer, Dept. of ECE<br>Rajshahi University of Engineering and Technology |
 
 <br>
 
