@@ -23,7 +23,9 @@ This is a type of correlation in which the given signal is correlated with itsel
 The autocorrelation of the discrete time signal $𝑥(𝑛)$ is expressed as,
 
 $$
+
 r_{xx}=\sum ^{\infty }_{n=-\infty }x\left( n\right) \cdot x\left( n-m\right)
+
 $$
 
 </p>
@@ -93,8 +95,11 @@ This is a kind of correlation, in which the signal in-hand is correlated with an
 <p align='justify'>
 
 The Cross-Correlation of the discrete time signals $𝑥(𝑛)$ and $𝑦(𝑛)$ is expressed as,
+
 $$
+
 r_{xy}=\sum ^{\infty }_{n=-\infty }x\left( n\right) \cdot y\left( n-m\right)
+
 $$
 </p>
 <br>
