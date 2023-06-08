@@ -22,3 +22,4 @@
 | 03 | <ol type="a"><li>Auto Correlation<li>Cross Correlation </ol>| [Exp 03](https://github.com/Zayed-26/1810016-ECE-4123/tree/master/Exp.%203)
 | 04 | Determining Delay between Two Signals using Cross Correlation | [Exp 04](https://github.com/Zayed-26/1810016-ECE-4123/tree/master/Exp.%204)
 | 05 | <ol type="a"><li>Z-transform of Causal Signal<li>Z-transform of anti-Causal Signal<li> Z-transform of non-Causal Signal</ol> | [Exp 05](https://github.com/Zayed-26/1810016-ECE-4123/tree/master/Exp.%205)
+| 05 | <ol type="a"></ol> | [Exp 06](#)
