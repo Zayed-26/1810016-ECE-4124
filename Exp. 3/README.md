@@ -23,9 +23,7 @@ This is a type of correlation in which the given signal is correlated with itsel
 The autocorrelation of the discrete time signal $𝑥(𝑛)$ is expressed as,
 
 $$
-
 r_{xx}=\sum ^{\infty }_{n=-\infty }x\left( n\right) \cdot x\left( n-m\right)
-
 $$
 
 </p>

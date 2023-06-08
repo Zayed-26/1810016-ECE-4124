@@ -11,17 +11,13 @@ Convolution is a mathematical way of combining two signals to form a third signa
 The convolution of two signals $x(n)$ and $h(n)$ is given by,
 
 $$
-
 y\left( n\right) =x\left( n\right) \cdot h\left( n\right) =\sum ^{\infty }_{k=-\infty }x\left( k\right) \cdot h\left( n-k\right)
-
 $$
 
 Or,
 
 $$
-
 y\left( n\right) =h\left( n\right) \cdot x\left( n\right) =\sum ^{\infty }_{k=-\infty }h\left( k\right) \cdot x\left( n-k\right)
-
 $$
 
 </p>
