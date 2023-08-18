@@ -60,8 +60,7 @@ ylabel('Y[n]'); title('Convoluted Signal');
 ### **2(a) Output:**
 ![lab2a_1](../images/lab2a_1.png)
 
-![lab2a_2](../images/lab2a_2.png)
-<br>
+![llab2a_2](../images/llab2a_2.png)
 <br>
 
 ### **Experiment No:** 02(b)
