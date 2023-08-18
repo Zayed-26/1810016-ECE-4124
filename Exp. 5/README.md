@@ -3,9 +3,18 @@
 
 
 
+### **Theory:**
+
 <p align='justify'>
+Z-transform is a mathematical tool that converts discrete time system into algebric equation in z-plane/domain. Z domain is complex frequency domain. If x(n) is a discrete time signal, then Z-transform is given by,
 
+$$
+Z\left[ x(n)\right] =X\left( Z\right)  =\sum ^{\infty }_{n=-\infty }x\left( n\right) z^{-n}
+$$
 
+</p>
+<p align='justify'>
+A  signal is said to be causal if its amplitude is zero for negative time, i.e. x(n) = 0 for n < 0.
 </p>
 <br>
 
@@ -34,6 +43,11 @@ display(X)
 ### **Experiment Name:** Z-transform of anti-Causal Signal 
 <br>
 
+### **Theory:**
+<p align='justify'>
+A  signal is said to be anti-causal if its amplitude is zero for positive time, i.e. x(n) = 0 for n > 0.
+</p>
+<br>
 ### **5(b) Code:**
 
 ```matlab
@@ -57,6 +71,12 @@ display(X)
 
 ### **Experiment No:** 05(c)
 ### **Experiment Name:** Z-transform of non-Causal Signal
+<br>
+
+### **Theory:**
+<p align='justify'>
+A signal which is neither causal nor anticausal is called a non-causal signal.
+</p>
 <br>
 
 ### **5(c) Code:**
