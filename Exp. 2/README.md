@@ -62,6 +62,7 @@ ylabel('Y[n]'); title('Convoluted Signal');
 
 ![lab2a_2](../images/lab2a_2.png)
 <br>
+<br>
 
 ### **Experiment No:** 02(b)
 ### **Experiment Name:** Addition & Subtraction of two signals 
